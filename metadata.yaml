@@ -1,0 +1,33 @@
+_repo: Those-Other-Animals_56767
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Weir, Harrison
+    alias: Weir, Harrison William
+    birthdate: 1824
+    deathdate: 1906
+    gutenberg_agent_id: '8210'
+    url: http://www.gutenberg.org/2009/agents/8210
+    wikipedia: http://en.wikipedia.org/wiki/Harrison_Weir
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_issued: '2018-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56767'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Those Other Animals
+url: http://www.gutenberg.org/ebooks/56767
