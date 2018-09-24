@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8210'
     url: http://www.gutenberg.org/2009/agents/8210
     wikipedia: http://en.wikipedia.org/wiki/Harrison_Weir
+covers:
+- cover_type: archival
+  image_path: 56767-h/images/cover.jpg
 creator:
   author:
     agent_name: Henty, G. A. (George Alfred)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1032
     wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56767#Those-Other-Animals
 gutenberg_issued: '2018-03-17'
 gutenberg_type: Text
 identifiers:
